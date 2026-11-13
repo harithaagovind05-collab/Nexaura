@@ -1,0 +1,11 @@
+**/node_modules
+client/dist
+.git
+.data
+.freebuff
+recordings
+_cleanup_review
+nexaura zero
+docs
+*.log
+.env
